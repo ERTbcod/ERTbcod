@@ -7,7 +7,7 @@ Atualmente curso **Engenharia de Controle e Automação** no **IFSP Hortolândia
 
 ---
 
-## 🚀 Tecnologias & Skills  
+## 🔹 Tecnologias & Skills  
 
 ### 💻 Linguagens de Programação
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
